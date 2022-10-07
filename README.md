@@ -1,1 +1,2 @@
-# bradford2025
+![a pickled rat](/pickled_rat.png)
+
